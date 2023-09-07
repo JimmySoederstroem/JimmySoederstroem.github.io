@@ -1,4 +1,3 @@
-theme: hacker
 ## Jimmy Söderström web exercise
 Writing in Markdown is _not_ that hard!
 
